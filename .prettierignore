@@ -1,0 +1,11 @@
+# Dependencias locales
+node_modules/
+
+# Archivos de bloqueo de paquetes (pnpm, npm, yarn)
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Carpetas de datos o historiales si aplica
+data/
+.bash_history*
