@@ -19,5 +19,8 @@ To install the required dependencies (locally) and execute the pipeline, run the
 pnpm install
 
 # Run the backup and deduplication pipeline
+pnpm clean
+
+# Run the deduplication pipeline
 pnpm start
 ```
